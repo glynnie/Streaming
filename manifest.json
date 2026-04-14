@@ -96,7 +96,10 @@
         "removeTrash": true,
         "scrapeDebridAccountTorrents": false,
         "useMultipleInstances": false,
-        "mediaTypes": []
+        "mediaTypes": [
+          "movie",
+          "series"
+        ]
       }
     },
     {
