@@ -98,6 +98,23 @@
         "useMultipleInstances": false,
         "mediaTypes": []
       }
+    },
+    {
+      "type": "tmdb-addon",
+      "instanceId": "bb4",
+      "enabled": true,
+      "options": {
+        "name": "The Movie Database",
+        "timeout": 7000,
+        "resources": [
+          "catalog",
+          "meta"
+        ],
+        "Enable Adult Content": false,
+        "hideEpisodeThumbnails": false,
+        "provideImdbId": true,
+        "language": "en-US"
+      }
     }
   ],
   "formatter": {
